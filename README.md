@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
-![](https://komarev.com/ghpvc/?username=chetanchandane&color=red&style=flat-square)
 <div>
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
     <small>
@@ -62,5 +61,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=chetanchandane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chetanchandane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanchandane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://komarev.com/ghpvc/?username=chetanchandane&color=red&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
