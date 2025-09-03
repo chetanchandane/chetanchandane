@@ -5,18 +5,21 @@
 <h3 style="font-family: Cambria; font-size: 16px">Social Links:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/chetanchandane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:cc5831@g.rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:chetan.chandane2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://leetcode.com/u/chetanecho" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
 </p>
 <div>
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
     <small>
       <ul>
         <li>💼 Currently, a student pursuing Masters in Computer Science @Rochester Institute of Technology</li>
-        <li>💙 Was working as Devops Engineer @Vodafone Intelligent Solutions</li>
-        <li>❤️ I love developing, automating applications, learning more about Cloud Technologies</li>
+        <li>💙 Was working as Software Devops Engineer @Vodafone, India</li>
+        <li>❤️ I love developing softwares, automating applications, learning more about Cloud Technologies</li>
         <li>🔭 Am currently learning more about <b>Cloud & CICD</b>.</li>
         <li>⚡ Fun fact: I enjoy Cooking while i listen to Music.</li>
-        <li>📫 You can reach out to me at: <a href="mailto:cc5831@g.rit.edu">cc5831@g.rit.edu</a></li>
+        <li>📫 You can reach out to me at: <a href="mailto:chetan.chandane2025@gmail.com">chetan.chandane2025@gmail.com</a></li>
       </ul>
     </small>
   </div>
@@ -55,6 +58,7 @@
 </p>
 
 # 📊 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=chetanchandane&color=red&style=flat-square)
 ![](https://github-readme-stats.vercel.app/api?username=chetanchandane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chetanchandane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanchandane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
