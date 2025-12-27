@@ -1,10 +1,8 @@
-## 👋 Hey there! I'm **Chetan Chandane**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chetanchandane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:cc5831@g.rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://leetcode.com/u/chetanecho" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<p>
+  <img src="assets/hello.gif" alt="Hello" />
 </p>
+
+## I'm **Chetan Chandane**
 
 I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s in Computer Science at RIT**. I love building scalable systems, automating development workflows, and designing cloud-native architectures that actually solve real-world problems.
 
@@ -30,8 +28,8 @@ I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s i
 **Certifications:** 
 
 <p align="center">
-  <img src="aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect" width="140" />
-  <img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="140" />
+  <img src="assets/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect" width="140" />
+  <img src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="140" />
 </p>
 
 ---
