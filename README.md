@@ -49,16 +49,17 @@ Software Engineer with **3+ years of production experience** across cloud platfo
 
 **Certifications**
 <p>
-<img src="assets/aws-certified-solutions-architect-associate.png" alt="AWS SA Associate" width="150"/>
-<img src="assets/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="150"/>
+<a href="https://drive.google.com/file/d/1xl_UNUJ-wTvmQ-J3rmEuPzQF1HT-CBuW/view?usp=sharing"><img src="assets/aws-certified-solutions-architect-associate.png" alt="AWS SA Associate" width="150"/></a>
+<a href="https://drive.google.com/file/d/1lO6xmCxKIkDJHEye9eSe-32KusTOy5aP/view?usp=sharing"><img src="assets/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="150"/></a>
 </p>
----
 
 ### 🚧 Featured Projects
 
 **🍽 [Cloud-Native Nutrition Platform](https://github.com/chetanchandane/cloud-native-aws-application)** — Serverless system that extracts macronutrients from food labels, generates diet plans via LLMs, and deploys through fully modular Terraform + GitHub Actions CI/CD. 99.9% uptime, sub-5s latency.
 
 **🏥 [TriageAI](https://github.com/chetanchandane/TriageAI)** — AI agent for patient/clinical-staff triage portal.
+
+**📝 [Job Alerts Automation](https://github.com/chetanchandane/watcher)** - Zero cost Persistent Microsoft Job Alert.
 
 **📝 [GitHub2Blog](https://github.com/chetanchandane/agentic-github2blog)** — Agentic AI system that analyzes a GitHub repo and auto-generates a technical blog post in Markdown, with optional Dev.to publishing.
 
