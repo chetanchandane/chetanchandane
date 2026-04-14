@@ -2,7 +2,7 @@
 
 ## About Me
 
-Software Engineer with **3+ years of production experience** across cloud platforms, DevOps, and full-stack development. MS CS @ **RIT** (2026).
+Full-stack engineer who helps teams ship reliable software faster. Passionate about building systems that work under real-world load, not just in isolation. Known for asking the right questions early and getting requirements crisp before I write code — a habit that's helped me deliver across Java, C#, and Python microservices in healthcare and telecom. On a mission to grow into the kind of engineer teams trust with their hardest problems.
 
 - 🏥 **SWE Intern @ Excellus BCBS** — Building Azure Functions & ASP.NET APIs powering 1,000+ daily healthcare operations; debugging production failures and shipping features end-to-end
 - 🌐 **Former SWE @ Vodafone** — Owned CI/CD across 15+ microservices (99.5% build success), built ELK observability reducing MTTR by 15%, engineered ticket automation processing 5,000+ req/month
