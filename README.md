@@ -1,8 +1,8 @@
 ![Hello](assets/hello.gif)
 
-### Full-Stack Software Engineer + AI Engineer · MS CS @ RIT '26
+### AI Engineer + Software Engineer · MS CS @ RIT '26
 
-> Currently shipping C#/Azure at Excellus BCBS · Building LangGraph agents for healthcare · Open to full-time SWE / AI Engineer roles
+> Previously shipped C#/Azure features at Excellus BCBS · Building LangGraph agents for healthcare · Open to full-time AI Engineer/SWE roles · Open to relocation.
 
 ---
 
@@ -12,7 +12,7 @@ I build production software where reliability actually matters — healthcare, t
 
 That's the lane I work in. Java, C#, Python microservices. Cloud-native systems that hold up under real load. AI/ML where it removes friction instead of adding ceremony.
 
-- 🏥 **SWE Intern @ Excellus BCBS** — Shipping C# across 5 Azure Functions + ASP.NET Core APIs powering 1,000+ daily Rx operations. Cut Azure DevOps pipeline time **35% (12 → 8 min)** and broken builds **~30%** via pre-commit Jest hooks.
+- 🏥 **Ex-SWE Intern @ Excellus BCBS** — Shipping C# across 5 Azure Functions + ASP.NET Core APIs powering 1,000+ daily Rx operations. Cut Azure DevOps pipeline time **35% (12 → 8 min)** and broken builds **~30%** via pre-commit Jest hooks.
 - 🌐 **Former SWE @ Vodafone (_VOIS)** — Owned CI/CD across 7 microservices, built event-driven ServiceNow automation processing **~5,000 tickets/month** (saved support ~7 hrs/week), and reduced MTTR using ELK observability dashboards.
 - 🤖 **Built [TriageAI](https://github.com/chetanchandane/TriageAI)** — Autonomous LangGraph + MCP agent for clinical inbox triage. Reduced false-positive emergency alerts **84%** while holding **100% safety recall** across 1.6M+ tokens of stress testing. Designed for 2026 FDA CDS compliance.
 - ☁️ **AWS Certified Solutions Architect Associate** + **Cloud Practitioner** · Terraform, Docker, GitHub Actions, Azure DevOps
@@ -104,9 +104,9 @@ Persistent Microsoft careers job alert running entirely on free tier. Scrapes ro
 
 ### 🎯 What I'm Looking For
 
-Full-time **Software Engineer (Full-Stack)** or **AI Engineer** roles, US-based, available **May 2026**.
+Full-time **AI Engineer** | **Software Engineer (Full-Stack)** roles, US-based, available **May 2026**.
 
-Especially excited about teams shipping AI into regulated industries — healthcare, finance, govtech — where reliability and safety actually matter. If that's you, let's talk.
+Especially excited about teams shipping AI into regulated industries — proptech, healthcare, finance, govtech — where reliability and safety actually matter. If that's you, let's talk.
 
 ---
 
